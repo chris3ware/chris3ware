@@ -21,6 +21,10 @@ Hi there 👋, I'm chris3ware. Chris is my actual name and [3ware](https://www.3
 
 * Adding support for the [XDG Base Directory Specifiation](https://wiki.archlinux.org/title/XDG_Base_Directory) to [common-fate/granted](https://github.com/common-fate/granted/releases/tag/v0.33.0)
 * Adding [Operational Best Practices for NCSC Cloud Security Principles](https://docs.aws.amazon.com/config/latest/developerguide/operational-best-practices-for-ncsc.html) to [terraform-aws-modules/terraform-aws-notify-slack](https://github.com/terraform-aws-modules/terraform-aws-notify-slack/pull/179)
+
+---
+
+This README has been optimized for accessibility based on GitHub's blogpost "[Tips for Making your GitHub Profile Page Accessible](https://github.blog/2023-10-26-5-tips-for-making-your-github-profile-page-accessible)".
 <!--
 **chris3ware/chris3ware** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
