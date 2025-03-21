@@ -2,7 +2,8 @@
 
 ## About me
 
-Hi there 👋, I'm chris3ware. Chris is my actual name and [3ware](https://www.3ware.co.uk) is my company.
+Hi there 👋, I'm chris3ware. Chris is my actual name and [3ware](https://www.3ware.co.uk) is my company. Check out our GitHub company profile and public repositories here: [3ware Github](https://github.com/3ware)
+
 
 ## Current project
 
